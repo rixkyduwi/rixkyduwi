@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**rixkyduwi/rixkyduwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=rixkyduwi&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on http://rizkycoba.herokuapp.com/  
+- 🌱 I’m currently learning ML (Machine learning)
+- 👯 I’m looking to collaborate on ML (Machine learning)
+- 🤔 I’m looking for help with human relationship
+- 💬 Ask me about random question
+- 📫 How to reach me: https://t.me/rixkyduwi
+- 😄 Pronouns: bahasa indonesia, english, 日本語 
+- ⚡ Fun fact: i'am advertiser, weebs 
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
