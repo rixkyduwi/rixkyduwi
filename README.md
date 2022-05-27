@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=rixkyduwi&show_icons=true&theme=ADD_THEME_HERE" width="400">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rixkyduwi&theme=dark&date_format=j%20M%5B%20Y%5D&locale=ja&stroke=11C51A&currStreakNum=DD2727&fire=DD2727)](https://git.io/streak-stats)!]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rixkyduwi)](https://git.io/streak-stats)
 - 🔭 I’m currently working on http://rizkycoba.herokuapp.com/  
 - 🌱 I’m currently learning ML (Machine learning)
 - 👯 I’m looking to collaborate on ML (Machine learning)
