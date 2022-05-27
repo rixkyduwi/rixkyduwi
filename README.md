@@ -9,6 +9,4 @@
 - 💬 Ask me about random question
 - 📫 How to reach me: https://t.me/rixkyduwi
 - 😄 Pronouns: bahasa indonesia, english, 日本語 
-- ⚡ Fun fact: i'am advertiser, weebs 
-- 
-
+- ⚡ Fun fact: i'am weebs 
