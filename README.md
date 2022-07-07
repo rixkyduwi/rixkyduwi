@@ -14,5 +14,6 @@
 - ⚡ Fun fact: i'am weebs 
 
 my project :
-http://rizkycoba.herokuapp.com/ 
-https://sites.google.com/view/ayyuhalwalad/
+http://rizkycoba.herokuapp.com/ <br>
+https://sites.google.com/view/ayyuhalwalad/ <br>
+https://rixkyduwi.github.io/ayyuhal_walad/
