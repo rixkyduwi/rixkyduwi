@@ -13,8 +13,10 @@
 - ⚡ Fun fact: i'am weebs 
 
 my project :
-http://rizkycoba.herokuapp.com/ <br>
-https://sites.google.com/view/ayyuhalwalad/ <br>
-https://rixkyduwi.github.io/ayyuhal_walad/ <br>
-https://tegaltourism.com <br>
+flask preoject => http://rizkycoba.herokuapp.com/ <br>
+sites google => https://sites.google.com/view/ayyuhalwalad/ <br>
+landing page for ayyuhal walad => https://rixkyduwi.github.io/ayyuhal_walad/ <br>
+virtual tour build with pano_vr => https://tegaltourism.com <br>
+chatbot with nlp => <br>
+chatbot with bert => <br>
 
