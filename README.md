@@ -12,11 +12,12 @@
 - 😄 Pronouns: bahasa indonesia, english, 日本語 
 - ⚡ Fun fact: i'am weebs 
 
-my project :
-flask preoject => http://rizkycoba.herokuapp.com/ <br>
+my project :<br>
+flask => http://rizkycoba.herokuapp.com/ <br>
 sites google => https://sites.google.com/view/ayyuhalwalad/ <br>
 landing page for ayyuhal walad => https://rixkyduwi.github.io/ayyuhal_walad/ <br>
 virtual tour build with pano_vr => https://tegaltourism.com <br>
 chatbot with nlp => <br>
-chatbot with bert => <br>
+chatbot with bert => <br> 
+garbage classification with cnn => <br>
 
