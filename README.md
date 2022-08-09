@@ -5,9 +5,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rixkyduwi&show_icons=true&theme=ADD_THEME_HERE" width="400"><br>
 
 - 🔭 I’m currently working on http://rizkycoba.herokuapp.com/  
-- 🌱 I’m currently learning ML (Machine learning)
-- 👯 I’m looking to collaborate on ML (Machine learning)
-- 🤔 I’m looking for help with human relationship
+- 🌱 I’m currently learning Laravel 8, Flutter & dart (Machine learning)
+- 👯 I’m looking to collaborate on Flutter&dart (i'am new on flutter&dart)
 - 💬 Ask me about random question
 - 📫 How to reach me: https://t.me/rixkyduwi
 - 😄 Pronouns: bahasa indonesia, english, 日本語 
@@ -16,4 +15,6 @@
 my project :
 http://rizkycoba.herokuapp.com/ <br>
 https://sites.google.com/view/ayyuhalwalad/ <br>
-https://rixkyduwi.github.io/ayyuhal_walad/
+https://rixkyduwi.github.io/ayyuhal_walad/ <br>
+https://tegaltourism.com <br>
+
