@@ -13,11 +13,11 @@
 - ⚡ Fun fact: i'am weebs 
 
 my project :<br>
-flask => http://rizkycoba.herokuapp.com/ <br>
+flask => https://rizkycoba.herokuapp.com/ <br>
 sites google => https://sites.google.com/view/ayyuhalwalad/ <br>
 landing page for ayyuhal walad => https://rixkyduwi.github.io/ayyuhal_walad/ <br>
 virtual tour build with pano_vr => https://tegaltourism.com <br>
-chatbot with nlp =>  http://rizkycoba.herokuapp.com/chatbotnlp <br> 
+chatbot with nlp =>  https://rizkycoba.herokuapp.com/chatbotnlp <br> 
 chatbot with bert => <br> 
 garbage classification with cnn =>  <br>
 
