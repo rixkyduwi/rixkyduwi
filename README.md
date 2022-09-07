@@ -20,4 +20,4 @@ virtual tour build with pano_vr => https://tegaltourism.com <br>
 chatbot with nlp =>  https://rizkycoba.herokuapp.com/chatbot <br> 
 chatbot with bert => <br> 
 garbage classification with cnn =>  <br>
-
+security => http://ayyuhal-walad.site
