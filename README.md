@@ -1,23 +1,102 @@
-### Hi there 👋 i'am an explorer 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rixkyduwi&theme=dark&date_format=j%20M%5B%20Y%5D&locale=ja&currStreakNum=DD2727&fire=DD2727&stroke=4BDD04)](https://git.io/streak-stats)
+# Hi, I'm Rizky Dwi Saputra
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=rixkyduwi&show_icons=true&theme=ADD_THEME_HERE" width="400"><br>
+I build practical web apps, REST APIs, Android apps, and small machine learning experiments. My projects usually focus on solving real workflows: upload services, dashboards, automation tools, content APIs, educational apps, and mobile ML demos.
 
-- 🔭 I’m currently working on http://rizkycoba.herokuapp.com/  
-- 🌱 I’m currently learning Laravel 8, Flutter & dart (Machine learning)
-- 👯 I’m looking to collaborate on Flutter&dart (i'am new on flutter&dart)
-- 💬 Ask me about random question
-- 📫 How to reach me: https://t.me/rixkyduwi
-- 😄 Pronouns: bahasa indonesia, english, 日本語 
-- ⚡ Fun fact: i'am weebs 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rixkyduwi&theme=dark&date_format=j%20M%5B%20Y%5D&stroke=4BDD04&fire=DD2727&currStreakNum=DD2727)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-my project :<br>
-flask => https://rizkycoba.herokuapp.com/ <br>
-sites google => https://sites.google.com/view/ayyuhalwalad/ <br>
-landing page for ayyuhal walad => https://rixkyduwi.github.io/ayyuhal_walad/ <br>
-virtual tour build with pano_vr => https://tegaltourism.com <br>
-chatbot with nlp =>  https://rizkycoba.herokuapp.com/chatbot <br> 
-virtual tour jejak rempah with php => https://jejakrempah.com <br> 
-e-commerce jejak rempah  => https://marketplace.jejakrempah.com  <br>
-security => http://ayyuhal-walad.site
+## What I Work With
+
+```text
+Backend      Python, Flask, Django, REST API, SQLite, MySQL
+Frontend     HTML, CSS, JavaScript, Bootstrap
+Mobile       Android, Kotlin, Flutter basics
+ML/NLP       TensorFlow Lite, TensorFlow, NLTK, image classification, chatbot prototypes
+Tools        Git, GitHub, Docker basics, Postman
+```
+
+## Featured Projects
+
+### DepTC - Android TFLite Plant Disease Detection
+
+Android app that uses TensorFlow Lite to classify chili plant leaf disease from images.
+
+- Kotlin Android app
+- On-device TensorFlow Lite model inference
+- Image preprocessing and multi-class classification
+- Portfolio focus: mobile machine learning implementation
+
+Repository: [AbbrorSholakhudin/tugas_akhir_deptc](https://github.com/AbbrorSholakhudin/tugas_akhir_deptc)
+
+### Big Project Website - Flask + Chatbot + ML
+
+Flask web app for waste education/management with dashboard pages, upload flow, chatbot, and simple ML integration.
+
+- Flask, Flask-Login, Flask-SQLAlchemy
+- Admin dashboard and authentication
+- NLP/chatbot prototype
+- Portfolio focus: full-stack Flask app with ML features
+
+Repository: [rixkyduwi/big-project-website](https://github.com/rixkyduwi/big-project-website)
+
+### 1cak Meme API
+
+Python API service for collecting and serving 1cak meme data through simple endpoints.
+
+- Flask REST API
+- SQLite data storage
+- Random and latest post endpoints
+- Portfolio focus: API design, scraping/data storage, JSON response
+
+Repository: [rixkyduwi/onecak](https://github.com/rixkyduwi/onecak)
+
+### API Upload Image
+
+Small Flask REST API for uploading image files, validating extensions, storing files locally, and recording metadata in SQLite.
+
+- Flask + SQLAlchemy
+- File upload validation
+- JSON response API
+- Portfolio focus: backend fundamentals and file handling
+
+Repository: [rixkyduwi/api_upload_image](https://github.com/rixkyduwi/api_upload_image)
+
+### Bookshelf Apps
+
+Browser-based bookshelf manager built with HTML, CSS, and JavaScript.
+
+- Add, search, move, and delete books
+- Local Storage persistence
+- DOM manipulation and event handling
+- Portfolio focus: vanilla JavaScript frontend
+
+Repository: [rixkyduwi/Bookshelf-Apps](https://github.com/rixkyduwi/Bookshelf-Apps)  
+Demo: [Bookshelf Apps](https://rixkyduwi.github.io/Bookshelf-Apps/)
+
+### Sertifikat Otomatis
+
+Python script for generating certificates from an image template.
+
+- Python + Pillow
+- Custom font rendering
+- Batch certificate output
+- Portfolio focus: automation with image processing
+
+Repository: [rizky-phb/sertifikat-otomatis](https://github.com/rizky-phb/sertifikat-otomatis)
+
+## Active Web Links
+
+- Ayyuhal Walad site: [sites.google.com/view/ayyuhalwalad](https://sites.google.com/view/ayyuhalwalad/)
+- Ayyuhal Walad landing page: [rixkyduwi.github.io/ayyuhal_walad](https://rixkyduwi.github.io/ayyuhal_walad/)
+- Virtual tour project: [tegaltourism.com](https://tegaltourism.com/)
+- Jejak Rempah marketplace: [marketplace.jejakrempah.com](https://marketplace.jejakrempah.com/)
+
+## Currently Improving
+
+- Cleaning older repositories so they are safe and readable for public portfolio use.
+- Turning college/freelance experiments into documented case studies.
+- Practicing better README, deployment notes, and API documentation.
+
+## Contact
+
+- Telegram: [t.me/rixkyduwi](https://t.me/rixkyduwi)
+- GitHub: [github.com/rixkyduwi](https://github.com/rixkyduwi)
