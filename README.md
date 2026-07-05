@@ -83,6 +83,17 @@ Python script for generating certificates from an image template.
 
 Repository: [rizky-phb/sertifikat-otomatis](https://github.com/rizky-phb/sertifikat-otomatis)
 
+## More Portfolio Repositories
+
+- [google-maps-review-scraper](https://github.com/rixkyduwi/google-maps-review-scraper) - Python experiment for scraping Google Maps reviews with Selenium and Parsel.
+- [flutter-chatgpt-webview](https://github.com/rixkyduwi/flutter-chatgpt-webview) - Flutter WebView app for opening ChatGPT inside a mobile application shell.
+- [map-engine-flask](https://github.com/rixkyduwi/map-engine-flask) - Flask and Folium app for rendering interactive maps with markers and popup HTML.
+- [penyakit-image-upload-flask](https://github.com/rixkyduwi/penyakit-image-upload-flask) - Simple Flask image upload app with modular structure and static assets.
+- [uas-jwt-flask-api](https://github.com/rixkyduwi/uas-jwt-flask-api) - Flask REST API with JWT authentication, password hashing, CRUD endpoints, and SQLite.
+- [openmusic-api-v2-hapi](https://github.com/rixkyduwi/openmusic-api-v2-hapi) - Hapi.js and PostgreSQL music API with auth, playlists, collaborations, and migrations.
+- [web-api-class-a-django](https://github.com/rixkyduwi/web-api-class-a-django) - Simple Django REST API project for student data using models, serializers, and views.
+- [android-retrofit-myapplication](https://github.com/rixkyduwi/android-retrofit-myapplication) - Android Kotlin sample app with Retrofit client, RecyclerView adapter, and multiple activities.
+
 ## Active Web Links
 
 - Ayyuhal Walad site: [sites.google.com/view/ayyuhalwalad](https://sites.google.com/view/ayyuhalwalad/)
