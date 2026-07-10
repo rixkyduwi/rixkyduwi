@@ -85,7 +85,12 @@ Repository: [rizky-phb/sertifikat-otomatis](https://github.com/rizky-phb/sertifi
 
 ## More Portfolio Repositories
 
-- [google-maps-review-scraper](https://github.com/rixkyduwi/google-maps-review-scraper) - Python experiment for scraping Google Maps reviews with Selenium and Parsel.
+- [gen-siakad-laravel](https://github.com/rixkyduwi/gen-siakad-laravel) - Laravel academic information system prototype with role, menu, and permission foundations.
+- [va-museum-semedo-flask](https://github.com/rixkyduwi/va-museum-semedo-flask) - Flask website prototype for Semedo Museum pages, collections, maps, and chatbot UI.
+- [semedo-chatbot-flask](https://github.com/rixkyduwi/semedo-chatbot-flask) - Flask chatbot/admin prototype with intent data, model training scripts, and museum templates.
+- [jejakrempah-chatbot-flask](https://github.com/rixkyduwi/jejakrempah-chatbot-flask) - Flask chatbot experiment with intent classification, speech helper scripts, and templates.
+- [web-service-login-flask](https://github.com/rixkyduwi/web-service-login-flask) - Flask web service login practice project with SQL schema and app package structure.
+- [leli-chatbot-flask](https://github.com/rixkyduwi/leli-chatbot-flask) - Compact Flask chatbot prototype with intent data, model artifacts, and training scripts.- [google-maps-review-scraper](https://github.com/rixkyduwi/google-maps-review-scraper) - Python experiment for scraping Google Maps reviews with Selenium and Parsel.
 - [flutter-chatgpt-webview](https://github.com/rixkyduwi/flutter-chatgpt-webview) - Flutter WebView app for opening ChatGPT inside a mobile application shell.
 - [map-engine-flask](https://github.com/rixkyduwi/map-engine-flask) - Flask and Folium app for rendering interactive maps with markers and popup HTML.
 - [penyakit-image-upload-flask](https://github.com/rixkyduwi/penyakit-image-upload-flask) - Simple Flask image upload app with modular structure and static assets.
