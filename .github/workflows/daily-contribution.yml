@@ -1,0 +1,32 @@
+name: Daily Contribution
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC (07:00 WIB)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  contribute:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Make daily contribution
+        run: |
+          # Configure git
+          git config user.name "rixkyduwi"
+          git config user.email "rizkydwisaputrar1@gmail.com"
+          
+          # Update the contribution log file
+          echo "📅 $(date -u '+%Y-%m-%d %H:%M:%S UTC') - Daily contribution ✅" >> CONTRIBUTIONS.md
+          
+          # Commit and push
+          git add CONTRIBUTIONS.md
+          git commit -m "🟢 Daily contribution - $(date -u '+%Y-%m-%d')"
+          git push
